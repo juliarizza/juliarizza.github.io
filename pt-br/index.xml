@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Rizza</title>
+    <link>https://juliarizza.com/pt-br/</link>
+    <description>Recent content on Julia Rizza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://juliarizza.com/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cursos</title>
+      <link>https://juliarizza.com/pt-br/courses/</link>
+      <pubDate>Sat, 27 Jun 2020 17:37:58 -0300</pubDate>
+      
+      <guid>https://juliarizza.com/pt-br/courses/</guid>
+      <description>Cursos Online Introdução aos Conceitos de Python (2019)
+Curso de Flask (2016)
+Web2Py (2015)
+Tutoriais, Palestras e Conteúdos Uai web2py - Porque construir suas aplicações ficou mais rápido (2015)
+POO com Python (2015)
+Passo-a-passo web2py (2015)
+Slides sobre Python, web2py, Odoo, Git, Banco de Dados, Linux</description>
+    </item>
+    
+    <item>
+      <title>Habilidades</title>
+      <link>https://juliarizza.com/pt-br/skills/</link>
+      <pubDate>Sat, 27 Jun 2020 17:02:19 -0300</pubDate>
+      
+      <guid>https://juliarizza.com/pt-br/skills/</guid>
+      <description>Como toda pessoa programadora, adquiri algumas habilidades ao longo dos anos de estudo:
+Linguagens          Python ⭐ ⭐ ⭐ ⭐ ⭐ JavaScript ⭐ ⭐ ⭐   GoLang ⭐ ⭐     Frameworks          Flask ⭐ ⭐ ⭐ ⭐ ⭐ Django ⭐ ⭐ ⭐   ReactJS/React Native ⭐ ⭐ ⭐ ⭐ Angular: ⭐ ⭐    Outros          Git ⭐ ⭐ ⭐ ⭐ ⭐ Linux ⭐ ⭐ ⭐ ⭐ ⭐   SQL ⭐ ⭐ ⭐ AWS ⭐ ⭐ ⭐ ⭐   Docker ⭐ ⭐     </description>
+    </item>
+    
+    <item>
+      <title>Sobre mim</title>
+      <link>https://juliarizza.com/pt-br/about/</link>
+      <pubDate>Sat, 27 Jun 2020 16:52:19 -0300</pubDate>
+      
+      <guid>https://juliarizza.com/pt-br/about/</guid>
+      <description>Oi, meu nome é Julia Rizza e venho codificando software desde que eu tinha 14 anos. Foi um hobbie muito divertido na época, que acabei transformando em profissão. Hoje trabalho com desenvolvimento backend de APIs web, além de me aventurar no mundo do frontend e, vez ou outra, trabalhar com big data. Além disso, gosto de compartilhar conhecimento e produzir cursos sobre o que aprendo, então pode ser que você esbarre em algum curso meu por aí.</description>
+    </item>
+    
+  </channel>
+</rss>

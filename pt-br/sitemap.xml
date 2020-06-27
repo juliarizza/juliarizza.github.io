@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://juliarizza.com/pt-br/courses/</loc>
+    <lastmod>2020-06-27T17:37:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juliarizza.com/en/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://juliarizza.com/pt-br/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://juliarizza.com/pt-br/skills/</loc>
+    <lastmod>2020-06-27T17:02:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juliarizza.com/en/skills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://juliarizza.com/pt-br/skills/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://juliarizza.com/pt-br/about/</loc>
+    <lastmod>2020-06-27T16:52:19-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juliarizza.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://juliarizza.com/pt-br/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://juliarizza.com/pt-br/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juliarizza.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://juliarizza.com/pt-br/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://juliarizza.com/pt-br/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juliarizza.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://juliarizza.com/pt-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://juliarizza.com/pt-br/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://juliarizza.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://juliarizza.com/pt-br/tags/"
+                />
+  </url>
+  
+</urlset>
