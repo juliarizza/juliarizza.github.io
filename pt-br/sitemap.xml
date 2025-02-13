@@ -36,13 +36,13 @@
     <loc>https://juliarizza.github.io/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/"
+                hreflang="en"
+                href="https://juliarizza.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/"
+                hreflang="pt-br"
+                href="https://juliarizza.github.io/pt-br/"
                 />
   </url>
   
