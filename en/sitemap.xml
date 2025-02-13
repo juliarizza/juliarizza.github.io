@@ -3,32 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://juliarizza.github.io/en/courses/</loc>
-    <lastmod>2020-06-27T17:37:58-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/courses/"
-                />
-  </url>
-  
-  <url>
     <loc>https://juliarizza.github.io/en/skills/</loc>
     <lastmod>2020-06-27T17:02:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/skills/"
+                hreflang="en"
+                href="https://juliarizza.github.io/en/skills/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/skills/"
+                hreflang="pt-br"
+                href="https://juliarizza.github.io/pt-br/skills/"
                 />
   </url>
   
@@ -37,27 +22,13 @@
     <lastmod>2020-06-27T16:52:19-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/about/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://juliarizza.github.io/en/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://juliarizza.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/categories/"
+                href="https://juliarizza.github.io/pt-br/about/"
                 />
   </url>
   
@@ -65,27 +36,13 @@
     <loc>https://juliarizza.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://juliarizza.github.io/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://juliarizza.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/tags/"
+                href="https://juliarizza.github.io/pt-br/"
                 />
   </url>
   

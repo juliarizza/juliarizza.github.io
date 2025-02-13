@@ -12,28 +12,13 @@
     
     
     <item>
-      <title>Cursos</title>
-      <link>https://juliarizza.github.io/pt-br/courses/</link>
-      <pubDate>Sat, 27 Jun 2020 17:37:58 -0300</pubDate>
-      
-      <guid>https://juliarizza.github.io/pt-br/courses/</guid>
-      <description>Cursos Online Introdução aos Conceitos de Python (2019)
-Curso de Flask (2016)
-Web2Py (2015)
-Tutoriais, Palestras e Conteúdos Uai web2py - Porque construir suas aplicações ficou mais rápido (2015)
-POO com Python (2015)
-Passo-a-passo web2py (2015)
-Slides sobre Python, web2py, Odoo, Git, Banco de Dados, Linux</description>
-    </item>
-    
-    <item>
       <title>Habilidades</title>
       <link>https://juliarizza.github.io/pt-br/skills/</link>
       <pubDate>Sat, 27 Jun 2020 17:02:19 -0300</pubDate>
       
       <guid>https://juliarizza.github.io/pt-br/skills/</guid>
-      <description>Como toda pessoa programadora, adquiri algumas habilidades ao longo dos anos de estudo:
-Linguagens          Python ⭐ ⭐ ⭐ ⭐ ⭐ JavaScript ⭐ ⭐ ⭐   GoLang ⭐ ⭐     Frameworks          Flask ⭐ ⭐ ⭐ ⭐ ⭐ Django ⭐ ⭐ ⭐   ReactJS/React Native ⭐ ⭐ ⭐ ⭐ Angular: ⭐ ⭐    Outros          Git ⭐ ⭐ ⭐ ⭐ ⭐ Linux ⭐ ⭐ ⭐ ⭐ ⭐   SQL ⭐ ⭐ ⭐ AWS ⭐ ⭐ ⭐ ⭐   Docker ⭐ ⭐     </description>
+      <description>Aqui está o que eu tenho aprendido e trabalhado recentemente:
+Linguagens          Python ⭐ ⭐ ⭐ ⭐ ⭐ JavaScript ⭐ ⭐ ⭐   Ruby ⭐ ⭐ ⭐     Frameworks          Flask ⭐ ⭐ ⭐ ⭐ ⭐ Django ⭐ ⭐ ⭐   ReactJS/React Native ⭐ ⭐ ⭐ ⭐  Ruby On Rails ⭐ ⭐ ⭐    Outras Habilidades          Git ⭐ ⭐ ⭐ ⭐ ⭐ Linux ⭐ ⭐ ⭐ ⭐ ⭐   SQL ⭐ ⭐ ⭐ AWS ⭐ ⭐ ⭐ ⭐ ⭐   Docker ⭐ ⭐ ⭐     </description>
     </item>
     
     <item>
@@ -42,7 +27,7 @@ Linguagens          Python ⭐ ⭐ ⭐ ⭐ ⭐ JavaScript ⭐ ⭐ ⭐   GoLang �
       <pubDate>Sat, 27 Jun 2020 16:52:19 -0300</pubDate>
       
       <guid>https://juliarizza.github.io/pt-br/about/</guid>
-      <description>Oi, meu nome é Julia Rizza e venho codificando software desde que eu tinha 14 anos. Foi um hobbie muito divertido na época, que acabei transformando em profissão. Hoje trabalho com desenvolvimento backend de APIs web, além de me aventurar no mundo do frontend e, vez ou outra, trabalhar com big data. Além disso, gosto de compartilhar conhecimento e produzir cursos sobre o que aprendo, então pode ser que você esbarre em algum curso meu por aí.</description>
+      <description>Oi, meu nome é Julia Rizza e venho escrevendo código desde que eu tinha 14 anos. Foi um hobbie muito divertido na época, que acabei transformando em profissão. Hoje trabalho com desenvolvimento backend de APIs web, aplicações cloud e microserviços. Além disso, gosto de compartilhar conhecimento e mentorear outras pessoas. No passado, eu criei cursos sobre Python e vários dos seus frameworks. Eu descobri que você sempre pode aprender algo ao ensinar os outros.</description>
     </item>
     
   </channel>
