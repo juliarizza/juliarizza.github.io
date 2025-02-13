@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://juliarizza.github.io/pt-br/courses/</loc>
-    <lastmod>2020-06-27T17:37:58-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/courses/"
-                />
-  </url>
-  
-  <url>
     <loc>https://juliarizza.github.io/pt-br/skills/</loc>
     <lastmod>2020-06-27T17:02:19-03:00</lastmod>
     <xhtml:link
@@ -46,46 +31,18 @@
                 href="https://juliarizza.github.io/pt-br/about/"
                 />
   </url>
-  
-  <url>
-    <loc>https://juliarizza.github.io/pt-br/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/categories/"
-                />
-  </url>
-  
+
   <url>
     <loc>https://juliarizza.github.io/pt-br/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://juliarizza.github.io/en/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://juliarizza.github.io/pt-br/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://juliarizza.github.io/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://juliarizza.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://juliarizza.github.io/pt-br/tags/"
+                href="https://juliarizza.github.io/en/"
                 />
   </url>
   
